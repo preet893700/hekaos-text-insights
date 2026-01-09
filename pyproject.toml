@@ -30,6 +30,6 @@ classifiers = [
 requires-python = ">=3.8"
 
 [project.urls]
-Homepage = "https://github.com/hekaos/hekaos-text-insights"
-Repository = "https://github.com/hekaos/hekaos-text-insights"
-Issues = "https://github.com/hekaos/hekaos-text-insights/issues"
+Homepage = "https://github.com/preet893700/hekaos-text-insights"
+Repository = "https://github.com/preet893700/hekaos-text-insights"
+Issues = "https://github.com/preet893700/hekaos-text-insights/issues"
